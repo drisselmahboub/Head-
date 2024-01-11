@@ -9,20 +9,20 @@
 
             "demo" : "true",
             "update_app" : false,
-            "activate_ads" : false,
+            "activate_ads" : true,
             "activate_banner" : "on",
             "activate_inter" : "on",
             
             "network" : "admob",
 
-            "one_signal" : "d8b84c79-f0ac-4e85-81a8-211b3caea613",
+            "one_signal" : "",
             
             "unity_game_id": "5103649",
             
-            "admob_ban": "ca-app-pub-6831347762585699/2170380106",
-            "admob_native" : "ca-app-pub-6831347762585699/1361815022",
-            "admob_int": "ca-app-pub-6831347762585699/9877517722",
-            "admob_rewarded": "ca-app-pub-6831347762585699/2674896693",
+            "admob_ban": "ca-app-pub-5592873095481164/7786361762",
+            "admob_native" : "ca-app-pub-5592873095481164/7445265193",
+            "admob_int": "ca-app-pub-5592873095481164/6996024270",
+            "admob_rewarded": "ca-app-pub-5592873095481164/5682942605",
 
             "yandex_ban" : "R-M-2193310-1",
             "yandex_native" : "R-M-2193310-2",
@@ -53,7 +53,7 @@
 
             "orientation": "portrait",
 
-            "game_name": "Mr Camera Head: Teleport Hero",
+            "game_name": "Camera Head Games",
             "game_cover": "",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
             "game_link": "https://html5.gamedistribution.com/40a12ab6887146dfbd6d9cc75baef340/?gd_sdk_referrer_url=https://lagged.com/en/g/heroes-of-myths",
